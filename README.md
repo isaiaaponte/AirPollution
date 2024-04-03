@@ -7,7 +7,7 @@ This project examines global air pollution death totals by country from 1990 - 2
 3. What type of pollution has the highest death rate?   
 4. How have death rates changed over time?
 # Data Set 
-This data set was found on Kaggle, with the autor citing it was sourced externally on https://ourworldindata.org/. 
+This data set was found on Kaggle, with the author citing it was sourced externally on https://ourworldindata.org/. 
 
 The is usage data that helps determine how pollution impacts death rates.  
 
